@@ -1,4 +1,4 @@
 <?php
 echo "Hello";
-system("ls");
+system("ls")
 ?>
